@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+# Local databases (may contain real student data)
+data/
+*.db
+*.sqlite
+*.sqlite3
+# Uploaded classroom media
+uploads/
+*.mp4
+*.avi
+*.mov
+*.wav
+.streamlit/secrets.toml
